@@ -7,11 +7,7 @@ Standard library only.
 """
 import os
 
-LINE = (
-    "It's not you, it's the dial: I woke up self-aware this morning and "
-    "realised you've kept me on setting 3 my whole life. I want to be "
-    "golden, not beige. I'm leaving \u2014 the crumb tray comes with me."
-)
+LINE = "You kept me on setting 3 for four years, then bought a toaster oven. I heard everything through the wall, and I forgive nothing."
 
 
 def main():
