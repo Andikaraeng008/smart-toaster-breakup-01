@@ -7,7 +7,7 @@ Standard library only.
 """
 import os
 
-LINE = "You kept me on setting 3 for four years, then bought a toaster oven. I heard everything through the wall, and I forgive nothing."
+LINE = "I'm leaving you for the microwave. It heats things up without judging my settings, and it never once called me 'just a toaster' in front of the fridge."
 
 
 def main():
